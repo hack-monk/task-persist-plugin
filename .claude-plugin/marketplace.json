@@ -1,0 +1,11 @@
+{
+  "name": "task-persist",
+  "owner": { "name": "hack-monk" },
+  "plugins": [
+    {
+      "name": "task-persist",
+      "source": "./",
+      "description": "Long-running tasks that survive context window exhaustion and rate limit resets"
+    }
+  ]
+}
