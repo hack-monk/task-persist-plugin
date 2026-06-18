@@ -1,0 +1,9 @@
+# Test artifacts
+HANDOFF.md
+TASK.md
+
+# macOS
+.DS_Store
+
+# Debug logs
+*.log
